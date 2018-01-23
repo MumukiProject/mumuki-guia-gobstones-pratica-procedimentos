@@ -1,0 +1,15 @@
+procedure ColocarPontos3(cor) {
+    Colocar(cor)
+    ColocarADistancia3(cor, Leste)
+    ColocarADistancia3(cor, Leste)
+    Mover3(Oeste); Mover3(Oeste)
+}
+
+procedure Mover3(direcao) {
+    Mover(direcao) ; Mover(direcao) ; Mover(direcao)
+}
+
+procedure ColocarADistancia3(cor, direcao) {
+    Mover3(direcao)
+    Colocar(cor)
+}
