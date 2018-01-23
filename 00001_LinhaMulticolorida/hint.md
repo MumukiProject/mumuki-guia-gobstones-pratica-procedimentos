@@ -1,0 +1,1 @@
+Seria interessante ter um procedimento que coloque uma pedra de cada cor na célula atual. Não acha?
