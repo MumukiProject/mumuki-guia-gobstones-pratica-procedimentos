@@ -1,0 +1,1 @@
+Pense primeiro em como resolver o problema de desenhar um vaso de planta de uma cor. Resolvido isso, e usando o procedimento `IrABorda` desenhe o jardim.
