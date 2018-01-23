@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: ColocarPontos3
+  inspection: Uses:ColocarADistancia3
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:ColocarPontos3
