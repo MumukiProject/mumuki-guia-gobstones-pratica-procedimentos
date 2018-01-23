@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: ColocarQuadradoMulticolorido4
+  inspection: Uses:ColocarLinhaMulticolorida4

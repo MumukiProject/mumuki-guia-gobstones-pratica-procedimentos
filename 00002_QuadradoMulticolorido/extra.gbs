@@ -1,0 +1,14 @@
+procedure ColocarUmaDeCada() {
+    Colocar(Vermelho) ; Colocar(Verde) ; Colocar(Azul) ; Colocar(Preto)
+}
+
+procedure MoverOeste3() {
+    repeat(3) { Mover(Oeste) }
+}
+
+procedure PonerLineaMulticolor4() {
+    ColocarUmaDeCada() ; Mover(Este)
+    ColocarUmaDeCada() ; Mover(Este)
+    ColocarUmaDeCada() ; Mover(Este)
+    ColocarUmaDeCada() ; MoverOeste3()
+}
