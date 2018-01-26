@@ -6,9 +6,9 @@ procedure MoverOeste3() {
     repeat(3) { Mover(Oeste) }
 }
 
-procedure PonerLineaMulticolor4() {
-    ColocarUmaDeCada() ; Mover(Este)
-    ColocarUmaDeCada() ; Mover(Este)
-    ColocarUmaDeCada() ; Mover(Este)
+procedure ColocarLinhaMulticolorida4() {
+    ColocarUmaDeCada() ; Mover(Leste)
+    ColocarUmaDeCada() ; Mover(Leste)
+    ColocarUmaDeCada() ; Mover(Leste)
     ColocarUmaDeCada() ; MoverOeste3()
 }
