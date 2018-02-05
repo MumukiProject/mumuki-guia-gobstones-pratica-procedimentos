@@ -3,7 +3,7 @@ check_head_position: true
 subject: VermelhoABorda 
 
 examples:
- - title: 'Tablero de 2x3 con el cabezal abajo a la izquierda'
+ - title: 'Tabuleiro de 2x3 com a garra na parte inferior esquerda'
    initial_board: |
      GBB/1.0
      size 2 3
@@ -14,7 +14,7 @@ examples:
      cell 0 2 Rojo 1
      head 0 2
      
- - title: 'Tablero de 3x3 con el cabezal en el medio'
+ - title: 'Tabuleiro de 3x3 com a garra no meio'
    initial_board: |
      GBB/1.0
      size 3 3
