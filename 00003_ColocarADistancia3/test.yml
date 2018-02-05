@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: PonerADistancia3
+subject: ColocarADistancia3
 
 examples:
  - initial_board: |
@@ -16,7 +16,7 @@ examples:
 
    arguments:
      - Verde
-     - Sur
+     - Sul
 
  - initial_board: |
      GBB/1.0
@@ -31,7 +31,7 @@ examples:
 
    arguments:
      - Azul
-     - Sur
+     - Sul
 
  - initial_board: |
      GBB/1.0
@@ -45,5 +45,5 @@ examples:
      head 0 3
 
    arguments:
-     - Rojo
+     - Vermelho
      - Norte
