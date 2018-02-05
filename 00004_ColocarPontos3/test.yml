@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: PonerPuntos3
+subject: ColocarPontos3
 
 examples:
  - initial_board: |
@@ -17,7 +17,7 @@ examples:
      head 0 0
 
    arguments:
-     - Negro
+     - Preto
 
  - initial_board: |
      GBB/1.0
