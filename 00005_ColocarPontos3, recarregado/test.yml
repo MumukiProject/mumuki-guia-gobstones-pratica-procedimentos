@@ -15,7 +15,7 @@ examples:
      head 0 0
 
    arguments:
-     - Rojo
+     - Vermelho
 
  - initial_board: |
      GBB/1.0
