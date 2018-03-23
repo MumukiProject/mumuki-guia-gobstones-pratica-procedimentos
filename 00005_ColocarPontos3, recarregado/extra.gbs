@@ -2,7 +2,7 @@ procedure Mover3(direcao) {
     Mover(direcao) ; Mover(direcao) ; Mover(direcao)
 }
 
-procedure ColocarADistancia3(cor, ColocarADistancia3) {
-    Mover3(ColocarADistancia3)
+procedure ColocarADistancia3(cor, direcao) {
+    Mover3(direcao)
     Colocar(cor)
 }
